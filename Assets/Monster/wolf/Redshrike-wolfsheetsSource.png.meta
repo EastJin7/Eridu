@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 6831bea7a6c326743abc9ff5d541864f
+timeCreated: 1480233109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Redshrike-wolfsheetsSource_55
+    21300002: Redshrike-wolfsheetsSource_56
+    21300004: Redshrike-wolfsheetsSource_57
+    21300006: Redshrike-wolfsheetsSource_58
+    21300008: Redshrike-wolfsheetsSource_69
+    21300010: Redshrike-wolfsheetsSource_70
+    21300012: Redshrike-wolfsheetsSource_71
+    21300014: Redshrike-wolfsheetsSource_72
+    21300016: Redshrike-wolfsheetsSource_73
+    21300018: Redshrike-wolfsheetsSource_74
+    21300020: Redshrike-wolfsheetsSource_75
+    21300022: Redshrike-wolfsheetsSource_76
+    21300024: Redshrike-wolfsheetsSource_77
+    21300026: Redshrike-wolfsheetsSource_78
+    21300028: Redshrike-wolfsheetsSource_79
+    21300030: Redshrike-wolfsheetsSource_80
+    21300032: Redshrike-wolfsheetsSource_81
+    21300034: Redshrike-wolfsheetsSource_82
+    21300036: Redshrike-wolfsheetsSource_83
+    21300038: Redshrike-wolfsheetsSource_84
+    21300040: Redshrike-wolfsheetsSource_85
+    21300042: Redshrike-wolfsheetsSource_86
+    21300044: Redshrike-wolfsheetsSource_87
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: Redshrike-wolfsheetsSource_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 166
+        width: 63
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 166
+        width: 63
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_57
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 166
+        width: 61
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_58
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 166
+        width: 60
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 101
+        width: 63
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_70
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 101
+        width: 64
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 9}
+        - {x: 32, y: 22}
+        - {x: -2, y: 37}
+        - {x: -23, y: 37}
+        - {x: -32, y: 30}
+        - {x: -32, y: 19}
+        - {x: -20, y: 0}
+        - {x: -7, y: 0}
+        - {x: -4, y: 4}
+        - {x: 0, y: 0}
+        - {x: 18, y: 0}
+    - name: Redshrike-wolfsheetsSource_71
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 101
+        width: 63
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 41}
+        - {x: -31.5, y: 41}
+        - {x: -31.5, y: 10}
+        - {x: -29.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 16}
+        - {x: 21.5, y: 31}
+    - name: Redshrike-wolfsheetsSource_72
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 101
+        width: 61
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 41}
+        - {x: -26.5, y: 41}
+        - {x: -30.5, y: 40}
+        - {x: -30.5, y: 27}
+        - {x: -20.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 30.5, y: 1}
+        - {x: 30.5, y: 17}
+    - name: Redshrike-wolfsheetsSource_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 63
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_74
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 68
+        width: 64
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_75
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 68
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 30}
+        - {x: -2, y: 32}
+        - {x: -28, y: 32}
+        - {x: -32, y: 25}
+        - {x: -32, y: 10}
+        - {x: -24, y: 0}
+        - {x: 27, y: 0}
+        - {x: 32, y: 12}
+        - {x: 32, y: 20}
+        - {x: 25, y: 25}
+    - name: Redshrike-wolfsheetsSource_76
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 68
+        width: 64
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_77
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 68
+        width: 63
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 32}
+        - {x: -27.5, y: 32}
+        - {x: -31.5, y: 24}
+        - {x: -31.5, y: 11}
+        - {x: -21.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 31.5, y: 9}
+        - {x: 31.5, y: 23}
+    - name: Redshrike-wolfsheetsSource_78
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 35
+        width: 63
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_79
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 35
+        width: 60
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_80
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 35
+        width: 63
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 32}
+        - {x: -31.5, y: 30}
+        - {x: -31.5, y: 11}
+        - {x: -22.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 31.5, y: 1}
+        - {x: 31.5, y: 24}
+        - {x: 1.5, y: 32}
+    - name: Redshrike-wolfsheetsSource_81
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 35
+        width: 63
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 32}
+        - {x: -31.5, y: 24}
+        - {x: -31.5, y: 9}
+        - {x: -26.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 31.5, y: 16}
+        - {x: 31.5, y: 25}
+        - {x: 20.5, y: 32}
+    - name: Redshrike-wolfsheetsSource_82
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 35
+        width: 63
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 29}
+        - {x: -3.5, y: 32}
+        - {x: -26.5, y: 32}
+        - {x: -31.5, y: 24}
+        - {x: -31.5, y: 0}
+        - {x: 31.5, y: 0}
+    - name: Redshrike-wolfsheetsSource_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2
+        width: 63
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2
+        width: 60
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_85
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 32}
+        - {x: -27, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: 11}
+        - {x: -18, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 21}
+    - name: Redshrike-wolfsheetsSource_86
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2
+        width: 64
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Redshrike-wolfsheetsSource_87
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2
+        width: 63
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

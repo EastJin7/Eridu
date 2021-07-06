@@ -1,0 +1,1635 @@
+fileFormatVersion: 2
+guid: 72ef7c6e0ceb8a44a9c0c4ee4e8edacf
+timeCreated: 1463516545
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boxy_bold_font_0
+    21300002: boxy_bold_font_1
+    21300004: boxy_bold_font_2
+    21300006: boxy_bold_font_3
+    21300008: boxy_bold_font_4
+    21300010: boxy_bold_font_5
+    21300012: boxy_bold_font_6
+    21300014: boxy_bold_font_7
+    21300016: boxy_bold_font_8
+    21300018: boxy_bold_font_9
+    21300020: boxy_bold_font_10
+    21300022: boxy_bold_font_11
+    21300024: boxy_bold_font_12
+    21300026: boxy_bold_font_13
+    21300028: boxy_bold_font_14
+    21300030: boxy_bold_font_15
+    21300032: boxy_bold_font_16
+    21300034: boxy_bold_font_17
+    21300036: boxy_bold_font_18
+    21300038: boxy_bold_font_19
+    21300040: boxy_bold_font_20
+    21300042: boxy_bold_font_21
+    21300044: boxy_bold_font_22
+    21300046: boxy_bold_font_23
+    21300048: boxy_bold_font_24
+    21300050: boxy_bold_font_25
+    21300052: boxy_bold_font_26
+    21300054: boxy_bold_font_27
+    21300056: boxy_bold_font_28
+    21300058: boxy_bold_font_29
+    21300060: boxy_bold_font_30
+    21300062: boxy_bold_font_31
+    21300064: boxy_bold_font_32
+    21300066: boxy_bold_font_33
+    21300068: boxy_bold_font_34
+    21300070: boxy_bold_font_35
+    21300072: boxy_bold_font_36
+    21300074: boxy_bold_font_37
+    21300076: boxy_bold_font_38
+    21300078: boxy_bold_font_39
+    21300080: boxy_bold_font_40
+    21300082: boxy_bold_font_41
+    21300084: boxy_bold_font_42
+    21300086: boxy_bold_font_43
+    21300088: boxy_bold_font_44
+    21300090: boxy_bold_font_45
+    21300092: boxy_bold_font_46
+    21300094: boxy_bold_font_47
+    21300096: boxy_bold_font_48
+    21300098: boxy_bold_font_49
+    21300100: boxy_bold_font_50
+    21300102: boxy_bold_font_51
+    21300104: boxy_bold_font_52
+    21300106: boxy_bold_font_53
+    21300108: boxy_bold_font_54
+    21300110: boxy_bold_font_55
+    21300112: boxy_bold_font_56
+    21300114: boxy_bold_font_57
+    21300116: boxy_bold_font_58
+    21300118: boxy_bold_font_59
+    21300120: boxy_bold_font_60
+    21300122: boxy_bold_font_61
+    21300124: boxy_bold_font_62
+    21300126: boxy_bold_font_63
+    21300128: boxy_bold_font_64
+    21300130: boxy_bold_font_65
+    21300132: boxy_bold_font_66
+    21300134: boxy_bold_font_67
+    21300136: boxy_bold_font_68
+    21300138: boxy_bold_font_69
+    21300140: boxy_bold_font_70
+    21300142: boxy_bold_font_71
+    21300144: boxy_bold_font_72
+    21300146: boxy_bold_font_73
+    21300148: boxy_bold_font_74
+    21300150: boxy_bold_font_75
+    21300152: boxy_bold_font_76
+    21300154: boxy_bold_font_77
+    21300156: boxy_bold_font_78
+    21300158: boxy_bold_font_79
+    21300160: boxy_bold_font_80
+    21300162: boxy_bold_font_81
+    21300164: boxy_bold_font_82
+    21300166: boxy_bold_font_83
+    21300168: boxy_bold_font_84
+    21300170: boxy_bold_font_85
+    21300172: boxy_bold_font_86
+    21300174: boxy_bold_font_87
+    21300176: boxy_bold_font_88
+    21300178: boxy_bold_font_89
+    21300180: boxy_bold_font_90
+    21300182: boxy_bold_font_91
+    21300184: boxy_bold_font_92
+    21300186: boxy_bold_font_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boxy_bold_font_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: boxy_bold_font_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 600
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 20}
+        - {x: -28, y: -20}
+        - {x: 28, y: -20}
+        - {x: 28, y: 20}
+    - name: boxy_bold_font_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 576
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -36, y: 26}
+        - {x: -36, y: -19}
+        - {x: -30, y: -32}
+        - {x: 30, y: -32}
+        - {x: 36, y: -19}
+        - {x: 36, y: 26}
+        - {x: 30, y: 32}
+    - name: boxy_bold_font_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 32}
+        - {x: -40, y: -11}
+        - {x: -26, y: -32}
+        - {x: 40, y: -32}
+        - {x: 40, y: 18}
+        - {x: 26, y: 32}
+    - name: boxy_bold_font_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 576
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 32}
+        - {x: -36, y: -32}
+        - {x: 36, y: -32}
+        - {x: 36, y: 18}
+        - {x: 22, y: 32}
+    - name: boxy_bold_font_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 600
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -16, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 20}
+    - name: boxy_bold_font_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 576
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -20, y: 26}
+        - {x: -20, y: -26}
+        - {x: -14, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 32}
+    - name: boxy_bold_font_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -20, y: -32}
+        - {x: 14, y: -32}
+        - {x: 20, y: -26}
+        - {x: 20, y: 26}
+        - {x: 14, y: 32}
+    - name: boxy_bold_font_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 584
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -24, y: 22}
+        - {x: -24, y: -28}
+        - {x: 24, y: -28}
+        - {x: 24, y: 22}
+        - {x: 18, y: 28}
+    - name: boxy_bold_font_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: -32, y: 18}
+        - {x: -32, y: -18}
+        - {x: -18, y: -32}
+        - {x: 18, y: -32}
+        - {x: 32, y: -18}
+        - {x: 32, y: 18}
+        - {x: 18, y: 32}
+    - name: boxy_bold_font_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 576
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -20, y: 11}
+        - {x: -20, y: -24}
+        - {x: 14, y: -24}
+        - {x: 20, y: -18}
+        - {x: 20, y: 24}
+    - name: boxy_bold_font_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 592
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 16}
+    - name: boxy_bold_font_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 576
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -16, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 20}
+    - name: boxy_bold_font_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -24, y: 15}
+        - {x: -24, y: -32}
+        - {x: 13, y: -32}
+        - {x: 24, y: -15}
+        - {x: 24, y: 32}
+    - name: boxy_bold_font_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: boxy_bold_font_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -18}
+        - {x: -7, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -3}
+        - {x: -6, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 504
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: boxy_bold_font_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -26}
+        - {x: -10, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: boxy_bold_font_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 432
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -22}
+        - {x: -14, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+    - name: boxy_bold_font_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: boxy_bold_font_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 432
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -32}
+        - {x: 14, y: -32}
+        - {x: 24, y: -22}
+        - {x: 24, y: 22}
+        - {x: 14, y: 32}
+    - name: boxy_bold_font_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -11}
+        - {x: -18, y: -32}
+        - {x: 21, y: -32}
+        - {x: 32, y: -15}
+        - {x: 32, y: 32}
+    - name: boxy_bold_font_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: boxy_bold_font_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 22, y: -32}
+        - {x: 28, y: -26}
+        - {x: 28, y: 26}
+        - {x: 22, y: 32}
+    - name: boxy_bold_font_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 6, y: -32}
+        - {x: 22, y: -16}
+        - {x: 28, y: -3}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_40
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 360
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: boxy_bold_font_41
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -28, y: 10}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 3}
+        - {x: 6, y: 32}
+    - name: boxy_bold_font_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 360
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 32}
+        - {x: -36, y: -32}
+        - {x: 36, y: -32}
+        - {x: 36, y: 32}
+    - name: boxy_bold_font_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: boxy_bold_font_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 7, y: -32}
+        - {x: 28, y: -18}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 5}
+        - {x: 26, y: 32}
+    - name: boxy_bold_font_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -3}
+        - {x: -18, y: -32}
+        - {x: 18, y: -32}
+        - {x: 32, y: -3}
+        - {x: 32, y: 32}
+    - name: boxy_bold_font_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_53
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -23}
+        - {x: -18, y: -32}
+        - {x: 19, y: -32}
+        - {x: 28, y: -22}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_54
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 32}
+        - {x: -36, y: -32}
+        - {x: 36, y: -32}
+        - {x: 36, y: 32}
+    - name: boxy_bold_font_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_56
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -16}
+        - {x: -21, y: -32}
+        - {x: 21, y: -32}
+        - {x: 32, y: -15}
+        - {x: 32, y: 32}
+    - name: boxy_bold_font_57
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 288
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -20, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 32}
+    - name: boxy_bold_font_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 216
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -16}
+        - {x: -13, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 16}
+        - {x: 13, y: 32}
+    - name: boxy_bold_font_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 216
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -20, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 32}
+    - name: boxy_bold_font_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -32, y: 14}
+        - {x: -32, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: 14}
+        - {x: 22, y: 24}
+    - name: boxy_bold_font_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 216
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 16}
+    - name: boxy_bold_font_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 232
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -20, y: -18}
+        - {x: -14, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: 11}
+        - {x: 14, y: 24}
+    - name: boxy_bold_font_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -20, y: 26}
+        - {x: -20, y: -26}
+        - {x: -14, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 32}
+    - name: boxy_bold_font_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: boxy_bold_font_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 216
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -20, y: -32}
+        - {x: 14, y: -32}
+        - {x: 20, y: -26}
+        - {x: 20, y: 26}
+        - {x: 14, y: 32}
+    - name: boxy_bold_font_67
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 240
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 20}
+        - {x: -36, y: 14}
+        - {x: -36, y: -20}
+        - {x: 30, y: -20}
+        - {x: 36, y: -14}
+        - {x: 36, y: 20}
+    - name: boxy_bold_font_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 26}
+        - {x: 8, y: 32}
+    - name: boxy_bold_font_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 28}
+        - {x: -24, y: -28}
+        - {x: 24, y: -28}
+        - {x: 24, y: 28}
+    - name: boxy_bold_font_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -28, y: 26}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: -24, y: 19}
+        - {x: -24, y: -19}
+        - {x: -18, y: -32}
+        - {x: 18, y: -32}
+        - {x: 24, y: -19}
+        - {x: 24, y: 32}
+    - name: boxy_bold_font_74
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 120
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -19}
+        - {x: -22, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_75
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 128
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 26}
+        - {x: 8, y: 32}
+    - name: boxy_bold_font_76
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 128
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -20, y: 19}
+        - {x: -20, y: -19}
+        - {x: -14, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 32}
+    - name: boxy_bold_font_77
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 120
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 36}
+        - {x: -24, y: 5}
+        - {x: -24, y: -36}
+        - {x: 24, y: -36}
+        - {x: 24, y: 36}
+    - name: boxy_bold_font_78
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 26}
+        - {x: 8, y: 32}
+    - name: boxy_bold_font_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -20, y: -5}
+        - {x: -14, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 32}
+    - name: boxy_bold_font_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 28}
+        - {x: -36, y: -28}
+        - {x: 36, y: -28}
+        - {x: 36, y: 28}
+    - name: boxy_bold_font_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -32}
+        - {x: 8, y: -32}
+        - {x: 28, y: -26}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -26}
+        - {x: -8, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 6, y: -28}
+        - {x: 28, y: -6}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_86
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 56
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -12}
+        - {x: -18, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+    - name: boxy_bold_font_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -19}
+        - {x: -18, y: -28}
+        - {x: 19, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 56
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 28}
+        - {x: -36, y: -28}
+        - {x: 36, y: -28}
+        - {x: 36, y: 28}
+    - name: boxy_bold_font_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    - name: boxy_bold_font_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -28, y: -19}
+        - {x: -22, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+    - name: boxy_bold_font_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

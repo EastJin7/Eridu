@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 691614eaab1440d498afc463bb7d9b1a
+timeCreated: 1478124167
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hapiel - Jungle_guide_0
+    21300002: Hapiel - Jungle_guide_1
+    21300004: Hapiel - Jungle_guide_2
+    21300006: Hapiel - Jungle_guide_3
+    21300008: Hapiel - Jungle_guide_4
+    21300010: Hapiel - Jungle_guide_5
+    21300012: Hapiel - Jungle_guide_6
+    21300014: Hapiel - Jungle_guide_7
+    21300016: Hapiel - Jungle_guide_8
+    21300018: Hapiel - Jungle_guide_9
+    21300020: Hapiel - Jungle_guide_10
+    21300022: Hapiel - Jungle_guide_11
+    21300024: Hapiel - Jungle_guide_12
+    21300026: Hapiel - Jungle_guide_13
+    21300028: Hapiel - Jungle_guide_14
+    21300030: Hapiel - Jungle_guide_15
+    21300032: Hapiel - Jungle_guide_16
+    21300034: Hapiel - Jungle_guide_17
+    21300036: Hapiel - Jungle_guide_18
+    21300038: Hapiel - Jungle_guide_19
+    21300040: Hapiel - Jungle_guide_20
+    21300042: Hapiel - Jungle_guide_21
+    21300044: Hapiel - Jungle_guide_22
+    21300046: Hapiel - Jungle_guide_23
+    21300048: Hapiel - Jungle_guide_24
+    21300050: Hapiel - Jungle_guide_25
+    21300052: Hapiel - Jungle_guide_26
+    21300054: Hapiel - Jungle_guide_27
+    21300056: Hapiel - Jungle_guide_28
+    21300058: Hapiel - Jungle_guide_29
+    21300060: Hapiel - Jungle_guide_30
+    21300062: Hapiel - Jungle_guide_31
+    21300064: Hapiel - Jungle_guide_32
+    21300066: Hapiel - Jungle_guide_33
+    21300068: Hapiel - Jungle_guide_34
+    21300070: Hapiel - Jungle_guide_35
+    21300072: Hapiel - Jungle_guide_36
+    21300074: Hapiel - Jungle_guide_37
+    21300076: Hapiel - Jungle_guide_38
+    21300078: Hapiel - Jungle_guide_39
+    21300080: Hapiel - Jungle_guide_40
+    21300082: Hapiel - Jungle_guide_41
+    21300084: Hapiel - Jungle_guide_42
+    21300086: Hapiel - Jungle_guide_43
+    21300088: Hapiel - Jungle_guide_44
+    21300090: Hapiel - Jungle_guide_45
+    21300092: Hapiel - Jungle_guide_46
+    21300094: Hapiel - Jungle_guide_47
+    21300096: Hapiel - Jungle_guide_48
+    21300098: Hapiel - Jungle_guide_49
+    21300100: Hapiel - Jungle_guide_50
+    21300102: Hapiel - Jungle_guide_51
+    21300104: Hapiel - Jungle_guide_52
+    21300106: Hapiel - Jungle_guide_53
+    21300108: Hapiel - Jungle_guide_54
+    21300110: Hapiel - Jungle_guide_55
+    21300112: Hapiel - Jungle_guide_56
+    21300114: Hapiel - Jungle_guide_57
+    21300116: Hapiel - Jungle_guide_58
+    21300118: Hapiel - Jungle_guide_59
+    21300120: Hapiel - Jungle_guide_60
+    21300122: Hapiel - Jungle_guide_61
+    21300124: Hapiel - Jungle_guide_62
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: Hapiel - Jungle_guide_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 768
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -6, y: 3}
+        - {x: -16, y: -11}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Hapiel - Jungle_guide_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Hapiel - Jungle_guide_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 704
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Hapiel - Jungle_guide_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 704
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 5}
+        - {x: 0, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Hapiel - Jungle_guide_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: 5}
+        - {x: 16, y: 16}
+    - name: Hapiel - Jungle_guide_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 661
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 725
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_11
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 736
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 608
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 192
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 371
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 339
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 276
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 34}
+        - {x: -16.5, y: 5}
+        - {x: -16.5, y: -34}
+        - {x: 16.5, y: -34}
+        - {x: 16.5, y: 34}
+    - name: Hapiel - Jungle_guide_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 68}
+        - {x: -16, y: 39}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 68}
+    - name: Hapiel - Jungle_guide_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 244
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 51}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 39}
+        - {x: -8.5, y: 51}
+    - name: Hapiel - Jungle_guide_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 37}
+        - {x: -9, y: 27}
+        - {x: -16, y: 23}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 37}
+    - name: Hapiel - Jungle_guide_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 198
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 22}
+        - {x: -16.5, y: -22}
+        - {x: 16.5, y: -22}
+        - {x: 16.5, y: 11}
+        - {x: -5.5, y: 22}
+    - name: Hapiel - Jungle_guide_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 198
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 182
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: 24.5}
+        - {x: -78, y: 24.5}
+        - {x: -91, y: -8.5}
+        - {x: -91, y: -16.5}
+        - {x: -71, y: -24.5}
+        - {x: 72, y: -24.5}
+        - {x: 91, y: -17.5}
+        - {x: 91, y: -11.5}
+        - {x: 86, y: -10.5}
+    - name: Hapiel - Jungle_guide_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 119
+        width: 157
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: -17}
+        - {x: 71.5, y: -17}
+        - {x: 78.5, y: -14}
+        - {x: 78.5, y: 24}
+        - {x: -76.5, y: 24}
+        - {x: -78.5, y: 20}
+        - {x: -78.5, y: -16}
+        - {x: -71.5, y: -18}
+        - {x: -51.5, y: -17}
+        - {x: -50.5, y: -15}
+        - {x: -52.5, y: -7}
+        - {x: -56.5, y: 7}
+        - {x: -45.5, y: -24}
+        - {x: 41.5, y: -24}
+        - {x: 60.5, y: -17}
+        - {x: 64.5, y: -13}
+        - {x: 65.5, y: -15}
+    - name: Hapiel - Jungle_guide_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 320
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143, y: 36}
+        - {x: -160, y: 25}
+        - {x: -160, y: -36}
+        - {x: 160, y: -36}
+        - {x: 160, y: 14}
+        - {x: 148, y: 36}
+    - name: Hapiel - Jungle_guide_27
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 64
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 50.5}
+        - {x: -27.5, y: 33.5}
+        - {x: -27.5, y: -53.5}
+        - {x: 27.5, y: -53.5}
+        - {x: 27.5, y: 50.5}
+    - name: Hapiel - Jungle_guide_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_29
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 192
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -21}
+        - {x: 16, y: -21}
+        - {x: 16, y: 17}
+    - name: Hapiel - Jungle_guide_30
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 221
+        width: 96
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_32
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: Hapiel - Jungle_guide_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 64
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 50}
+        - {x: -29, y: -54}
+        - {x: 29, y: -54}
+        - {x: 29, y: 49}
+        - {x: 28, y: 50}
+    - name: Hapiel - Jungle_guide_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -22, y: 15.5}
+        - {x: -22, y: -53.5}
+        - {x: 22, y: -53.5}
+        - {x: 22, y: 16.5}
+    - name: Hapiel - Jungle_guide_35
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 385
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 31.5}
+        - {x: -16, y: -31.5}
+        - {x: 16, y: -31.5}
+        - {x: 16, y: 31.5}
+    - name: Hapiel - Jungle_guide_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Hapiel - Jungle_guide_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Hapiel - Jungle_guide_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 544
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 544
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 544
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 25.5}
+        - {x: -31.5, y: -25.5}
+        - {x: 31.5, y: -25.5}
+        - {x: 31.5, y: 23.5}
+        - {x: 26.5, y: 25.5}
+    - name: Hapiel - Jungle_guide_41
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 544
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 26.5}
+        - {x: -34, y: 21.5}
+        - {x: -34, y: -26.5}
+        - {x: 34, y: -26.5}
+        - {x: 34, y: 23.5}
+        - {x: 29, y: 26.5}
+    - name: Hapiel - Jungle_guide_42
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 544
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 26}
+        - {x: -31, y: -26}
+        - {x: 31, y: -26}
+        - {x: 31, y: 18}
+        - {x: 28, y: 26}
+    - name: Hapiel - Jungle_guide_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 884
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_44
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 898
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_45
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 885
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 866
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_47
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 862
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_48
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 838
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_49
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 821
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 29}
+        - {x: -14, y: 29}
+        - {x: -31, y: 9}
+        - {x: -31, y: -24}
+        - {x: -18, y: -29}
+        - {x: 21, y: -29}
+        - {x: 31, y: -7}
+        - {x: 31, y: 5}
+        - {x: 16, y: 21}
+    - name: Hapiel - Jungle_guide_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 831
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -19, y: 29}
+        - {x: -32, y: 13}
+        - {x: -32, y: -9}
+        - {x: -24, y: -26}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 32, y: -15}
+        - {x: 32, y: 16}
+        - {x: 16, y: 32}
+    - name: Hapiel - Jungle_guide_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 432
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_52
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 397
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 320
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32.5}
+        - {x: -16.5, y: -32.5}
+        - {x: 16.5, y: -32.5}
+        - {x: 16.5, y: 32.5}
+    - name: Hapiel - Jungle_guide_54
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 320
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 19.5}
+        - {x: -21.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 19.5}
+    - name: Hapiel - Jungle_guide_55
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 320
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: -20.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 24.5, y: 19.5}
+    - name: Hapiel - Jungle_guide_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 321
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 38}
+        - {x: -33.5, y: -38}
+        - {x: 33.5, y: -38}
+        - {x: 33.5, y: 38}
+    - name: Hapiel - Jungle_guide_57
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 397
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 30.5}
+        - {x: -20.5, y: -30.5}
+        - {x: 20.5, y: -30.5}
+        - {x: 20.5, y: 30.5}
+    - name: Hapiel - Jungle_guide_58
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 458
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 458
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 390
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hapiel - Jungle_guide_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 407
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 23}
+        - {x: -32, y: -23}
+        - {x: 32, y: -23}
+        - {x: 32, y: 23}
+    - name: Hapiel - Jungle_guide_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 27.5}
+        - {x: -17.5, y: -27.5}
+        - {x: 17.5, y: -27.5}
+        - {x: 17.5, y: 27.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

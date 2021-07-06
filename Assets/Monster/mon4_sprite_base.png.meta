@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: dacbd8746815bb84e8a8a05e247043d7
+timeCreated: 1478850211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mon4_sprite_base_0
+    21300002: mon4_sprite_base_1
+    21300004: mon4_sprite_base_2
+    21300006: mon4_sprite_base_3
+    21300008: mon4_sprite_base_11
+    21300010: mon4_sprite_base_12
+    21300012: mon4_sprite_base_13
+    21300014: mon4_sprite_base_14
+    21300016: mon4_sprite_base_15
+    21300018: mon4_sprite_base_16
+    21300020: mon4_sprite_base_17
+    21300022: mon4_sprite_base_18
+    21300024: mon4_sprite_base_19
+    21300026: mon4_sprite_base_22
+    21300028: mon4_sprite_base_31
+    21300030: mon4_sprite_base_34
+    21300032: mon4_sprite_base_39
+    21300034: mon4_sprite_base_44
+    21300036: mon4_sprite_base_45
+    21300038: mon4_sprite_base_46
+    21300040: mon4_sprite_base_47
+    21300042: mon4_sprite_base_48
+    21300044: mon4_sprite_base_53
+    21300046: mon4_sprite_base_63
+    21300048: mon4_sprite_base_70
+    21300050: mon4_sprite_base_74
+    21300052: mon4_sprite_base_81
+    21300054: mon4_sprite_base_95
+    21300056: mon4_sprite_base_96
+    21300058: mon4_sprite_base_97
+    21300060: mon4_sprite_base_98
+    21300062: mon4_sprite_base_99
+    21300064: mon4_sprite_base_100
+    21300066: mon4_sprite_base_101
+    21300068: mon4_sprite_base_102
+    21300070: mon4_sprite_base_103
+    21300072: mon4_sprite_base_104
+    21300074: mon4_sprite_base_105
+    21300076: mon4_sprite_base_106
+    21300078: mon4_sprite_base_107
+    21300080: mon4_sprite_base_108
+    21300082: mon4_sprite_base_109
+    21300084: mon4_sprite_base_110
+    21300086: mon4_sprite_base_111
+    21300088: mon4_sprite_base_112
+    21300090: mon4_sprite_base_113
+    21300092: mon4_sprite_base_114
+    21300094: mon4_sprite_base_115
+    21300096: mon4_sprite_base_116
+    21300098: mon4_sprite_base_117
+    21300100: mon4_sprite_base_118
+    21300102: mon4_sprite_base_119
+    21300104: mon4_sprite_base_120
+    21300106: mon4_sprite_base_121
+    21300108: mon4_sprite_base_122
+    21300110: mon4_sprite_base_123
+    21300112: mon4_sprite_base_124
+    21300114: mon4_sprite_base_125
+    21300116: mon4_sprite_base_126
+    21300118: mon4_sprite_base_127
+    21300120: mon4_sprite_base_128
+    21300122: mon4_sprite_base_129
+    21300124: mon4_sprite_base_130
+    21300126: mon4_sprite_base_131
+    21300128: mon4_sprite_base_132
+    21300130: mon4_sprite_base_133
+    21300132: mon4_sprite_base_134
+    21300134: mon4_sprite_base_135
+    21300136: mon4_sprite_base_136
+    21300138: mon4_sprite_base_137
+    21300140: mon4_sprite_base_138
+    21300142: mon4_sprite_base_139
+    21300144: mon4_sprite_base_140
+    21300146: mon4_sprite_base_141
+    21300148: mon4_sprite_base_142
+    21300150: mon4_sprite_base_143
+    21300152: mon4_sprite_base_144
+    21300154: mon4_sprite_base_145
+    21300156: mon4_sprite_base_148
+    21300158: mon4_sprite_base_161
+    21300160: mon4_sprite_base_168
+    21300162: mon4_sprite_base_169
+    21300164: mon4_sprite_base_174
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: mon4_sprite_base_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 457
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 457
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 457
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -10.5}
+        - {x: -15, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 12, y: -14.5}
+        - {x: 16, y: -3.5}
+        - {x: 16, y: 16.5}
+    - name: mon4_sprite_base_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 457
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 393
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 393
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 393
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 393
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18.5}
+        - {x: -16, y: 17.5}
+        - {x: -16, y: -14.5}
+        - {x: -9, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 18.5}
+    - name: mon4_sprite_base_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 396
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 396
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 17}
+        - {x: -16, y: -3}
+        - {x: -13, y: -20}
+        - {x: 8, y: -20}
+        - {x: 16, y: 4}
+        - {x: 16, y: 20}
+    - name: mon4_sprite_base_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 393
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18.5}
+        - {x: -16, y: 17.5}
+        - {x: -16, y: -14.5}
+        - {x: -9, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 18.5}
+    - name: mon4_sprite_base_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 393
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 393
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_31
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 420
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_34
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 421
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_39
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 421
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 329
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 329
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 329
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -15.5}
+        - {x: -15, y: -17.5}
+        - {x: 10, y: -17.5}
+        - {x: 16, y: 3.5}
+        - {x: 16, y: 17.5}
+    - name: mon4_sprite_base_47
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 329
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 329
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -17, y: 6}
+        - {x: -17, y: -12}
+        - {x: -5, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 17}
+    - name: mon4_sprite_base_53
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 360
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_63
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 337
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_70
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 337
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_74
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 337
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_81
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 336
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 265
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 285
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 265
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 17}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: -17}
+        - {x: 10.5, y: -17}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 17}
+    - name: mon4_sprite_base_98
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 265
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17.5}
+        - {x: -19, y: 14.5}
+        - {x: -19, y: -14.5}
+        - {x: -14, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 19, y: -6.5}
+        - {x: 19, y: 17.5}
+    - name: mon4_sprite_base_99
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 265
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19.5}
+        - {x: -18, y: -6.5}
+        - {x: -13, y: -19.5}
+        - {x: 17, y: -19.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 19.5}
+    - name: mon4_sprite_base_101
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17.5}
+        - {x: -19, y: 12.5}
+        - {x: -19, y: -6.5}
+        - {x: -18, y: -11.5}
+        - {x: -5, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 17.5}
+    - name: mon4_sprite_base_102
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 265
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: -8}
+        - {x: -12, y: -17}
+        - {x: 9, y: -17}
+        - {x: 14, y: -12}
+        - {x: 17, y: -1}
+        - {x: 17, y: 17}
+    - name: mon4_sprite_base_103
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 265
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_104
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_105
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 265
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_106
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 265
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -15.5}
+        - {x: -15, y: -17.5}
+        - {x: 10, y: -17.5}
+        - {x: 16, y: 3.5}
+        - {x: 16, y: 17.5}
+    - name: mon4_sprite_base_107
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 265
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -9.5}
+        - {x: -5, y: -19.5}
+        - {x: 12, y: -19.5}
+        - {x: 16, y: -12.5}
+        - {x: 16, y: 19.5}
+    - name: mon4_sprite_base_108
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 265
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -16, y: 17}
+        - {x: -16, y: -10}
+        - {x: -10, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 15}
+        - {x: 13, y: 20}
+    - name: mon4_sprite_base_109
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 265
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -15.5}
+        - {x: -15, y: -17.5}
+        - {x: 10, y: -17.5}
+        - {x: 16, y: 3.5}
+        - {x: 16, y: 17.5}
+    - name: mon4_sprite_base_110
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 265
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_111
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 277
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_112
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 280
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_113
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 277
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_114
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 201
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20}
+        - {x: -19.5, y: 6}
+        - {x: -17.5, y: 4}
+        - {x: -16.5, y: 4}
+        - {x: -19.5, y: 4}
+        - {x: -19.5, y: -13}
+        - {x: -8.5, y: -20}
+        - {x: 14.5, y: -20}
+        - {x: 19.5, y: -8}
+        - {x: 19.5, y: 20}
+    - name: mon4_sprite_base_115
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 238
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_116
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 201
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 10}
+        - {x: -19, y: -2}
+        - {x: -11, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: 21}
+        - {x: -5, y: 21}
+        - {x: -9, y: 19}
+    - name: mon4_sprite_base_117
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 202
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16.5}
+        - {x: 10, y: 13.5}
+        - {x: 3, y: 19.5}
+        - {x: -4, y: 19.5}
+        - {x: -4, y: 17.5}
+        - {x: -2, y: 14.5}
+        - {x: -6, y: 14.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: -19.5}
+        - {x: 12, y: -19.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 16.5}
+    - name: mon4_sprite_base_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 201
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_119
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 201
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18.5}
+        - {x: -19, y: -5.5}
+        - {x: -15, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 18, y: -15.5}
+        - {x: 19, y: -0.5}
+        - {x: 19, y: 17.5}
+        - {x: 16, y: 18.5}
+    - name: mon4_sprite_base_120
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 203
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_121
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 204
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_122
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 220
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_123
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 218
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_124
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_125
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_126
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 218
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_127
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 219
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_128
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 219
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_129
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_130
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_132
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 219
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_133
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 218
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_134
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_135
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 219
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 219
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_137
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 219
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_138
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_139
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 219
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_140
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_141
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 219
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_142
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 219
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_143
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 219
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_144
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 219
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_148
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_161
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 167
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_168
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_169
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 167
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon4_sprite_base_174
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 167
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

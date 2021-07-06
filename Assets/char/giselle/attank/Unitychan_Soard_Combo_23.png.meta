@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 4d7b6989d1610459c86d3edfd9ca0d33
+labels:
+- Unitychan
+- 2d
+timeCreated: 1478717102
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unitychan_Soard_Combo_23_0
+    21300002: Unitychan_Soard_Combo_23_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.1735}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 0
+    allowsAlphaSplitting: 1
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: Unitychan_Soard_Combo_23_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 104
+        height: 32
+      alignment: 9
+      pivot: {x: 0.16652915, y: 0.025010347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.68097, y: 16.199669}
+        - {x: 23.68097, y: 31.199669}
+        - {x: 0.68096924, y: 31.199669}
+        - {x: -17.31903, y: 18.199669}
+        - {x: -17.31903, y: -0.8003311}
+        - {x: 47.68097, y: -0.8003311}
+        - {x: 47.68097, y: 11.199669}
+        - {x: 43.68097, y: 16.199669}
+      - - {x: 86.68097, y: 6.199669}
+        - {x: 73.68097, y: 25.199669}
+        - {x: 54.68097, y: 25.199669}
+        - {x: 48.68097, y: 9.199669}
+        - {x: 48.68097, y: -0.8003311}
+        - {x: 86.68097, y: -0.8003311}
+    - name: Unitychan_Soard_Combo_23_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 35
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.4813, y: 16.466446}
+        - {x: 24.4813, y: 31.466446}
+        - {x: 1.4813004, y: 31.466446}
+        - {x: -16.5187, y: 18.466446}
+        - {x: -16.5187, y: -0.5335541}
+        - {x: 48.4813, y: -0.5335541}
+        - {x: 48.4813, y: 11.466446}
+        - {x: 44.4813, y: 16.466446}
+        - {x: 41.4813, y: 16.466446}
+        - {x: 24.4813, y: 31.466446}
+        - {x: 1.4813004, y: 31.466446}
+        - {x: -16.5187, y: 18.466446}
+        - {x: -16.5187, y: -0.5335541}
+        - {x: 48.4813, y: -0.5335541}
+        - {x: 48.4813, y: 11.466446}
+        - {x: 44.4813, y: 16.466446}
+      - - {x: 87.4813, y: 6.466446}
+        - {x: 74.4813, y: 25.466446}
+        - {x: 55.4813, y: 25.466446}
+        - {x: 49.4813, y: 9.466446}
+        - {x: 49.4813, y: -0.5335541}
+        - {x: 87.4813, y: -0.5335541}
+        - {x: 41.4813, y: 16.466446}
+        - {x: 24.4813, y: 31.466446}
+        - {x: 1.4813004, y: 31.466446}
+        - {x: -16.5187, y: 18.466446}
+        - {x: -16.5187, y: -0.5335541}
+        - {x: 48.4813, y: -0.5335541}
+        - {x: 48.4813, y: 11.466446}
+        - {x: 44.4813, y: 16.466446}
+      - - {x: 41.4813, y: 16.466446}
+        - {x: 24.4813, y: 31.466446}
+        - {x: 1.4813004, y: 31.466446}
+        - {x: -16.5187, y: 18.466446}
+        - {x: -16.5187, y: -0.5335541}
+        - {x: 48.4813, y: -0.5335541}
+        - {x: 48.4813, y: 11.466446}
+        - {x: 44.4813, y: 16.466446}
+      - - {x: 87.4813, y: 6.466446}
+        - {x: 74.4813, y: 25.466446}
+        - {x: 55.4813, y: 25.466446}
+        - {x: 49.4813, y: 9.466446}
+        - {x: 49.4813, y: -0.5335541}
+        - {x: 87.4813, y: -0.5335541}
+        - {x: 41.4813, y: 16.466446}
+        - {x: 24.4813, y: 31.466446}
+        - {x: 1.4813004, y: 31.466446}
+        - {x: -16.5187, y: 18.466446}
+        - {x: -16.5187, y: -0.5335541}
+        - {x: 48.4813, y: -0.5335541}
+        - {x: 48.4813, y: 11.466446}
+        - {x: 44.4813, y: 16.466446}
+    outline: []
+  spritePackingTag: Unitychan_BattleActions
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

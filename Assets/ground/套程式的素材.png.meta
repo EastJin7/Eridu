@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5f43cf41a393abd46b68884fd4bba26b
+timeCreated: 1479299018
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_0"
+    21300002: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_1"
+    21300004: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_2"
+    21300006: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_3"
+    21300008: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_4"
+    21300010: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_5"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_0"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 393
+        width: 419
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -208.5, y: 46}
+        - {x: -209.5, y: 45}
+        - {x: -209.5, y: -46}
+        - {x: 209.5, y: -46}
+        - {x: 209.5, y: 46}
+    - name: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_1"
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 394
+        width: 415
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -207.5, y: -49.5}
+        - {x: 207.5, y: -49.5}
+        - {x: 207.5, y: 47.5}
+        - {x: -207.5, y: 47.5}
+    - name: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_2"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289
+        width: 640
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320, y: 29}
+        - {x: -320, y: -29}
+        - {x: 320, y: -29}
+        - {x: 320, y: 29}
+    - name: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_3"
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 289
+        width: 641
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320.5, y: 29}
+        - {x: -320.5, y: -29}
+        - {x: 320.5, y: -29}
+        - {x: 320.5, y: 29}
+    - name: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_4"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 89
+        width: 550
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273, y: 86.5}
+        - {x: -275, y: 85.5}
+        - {x: -275, y: -84.5}
+        - {x: -272, y: -86.5}
+        - {x: 272, y: -86.5}
+        - {x: 275, y: -83.5}
+        - {x: 275, y: 83.5}
+        - {x: 272, y: 86.5}
+    - name: "\u5957\u7A0B\u5F0F\u7684\u7D20\u6750_5"
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 89
+        width: 539
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -269.5, y: 86}
+        - {x: -269.5, y: -86}
+        - {x: 268.5, y: -86}
+        - {x: 269.5, y: -85}
+        - {x: 269.5, y: 86}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

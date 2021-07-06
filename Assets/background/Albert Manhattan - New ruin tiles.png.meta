@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: d34d9f5aef943c440ab60ab146fdeab2
+timeCreated: 1478982547
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Albert Manhattan - New ruin tiles_0
+    21300002: Albert Manhattan - New ruin tiles_1
+    21300004: Albert Manhattan - New ruin tiles_2
+    21300006: Albert Manhattan - New ruin tiles_3
+    21300008: Albert Manhattan - New ruin tiles_4
+    21300010: Albert Manhattan - New ruin tiles_5
+    21300012: Albert Manhattan - New ruin tiles_6
+    21300014: Albert Manhattan - New ruin tiles_7
+    21300016: Albert Manhattan - New ruin tiles_8
+    21300018: Albert Manhattan - New ruin tiles_9
+    21300020: Albert Manhattan - New ruin tiles_10
+    21300022: Albert Manhattan - New ruin tiles_11
+    21300024: Albert Manhattan - New ruin tiles_12
+    21300026: Albert Manhattan - New ruin tiles_13
+    21300028: Albert Manhattan - New ruin tiles_14
+    21300030: Albert Manhattan - New ruin tiles_15
+    21300032: Albert Manhattan - New ruin tiles_16
+    21300034: Albert Manhattan - New ruin tiles_17
+    21300036: Albert Manhattan - New ruin tiles_18
+    21300038: Albert Manhattan - New ruin tiles_19
+    21300040: Albert Manhattan - New ruin tiles_20
+    21300042: Albert Manhattan - New ruin tiles_21
+    21300044: Albert Manhattan - New ruin tiles_22
+    21300046: Albert Manhattan - New ruin tiles_23
+    21300048: Albert Manhattan - New ruin tiles_24
+    21300050: Albert Manhattan - New ruin tiles_25
+    21300052: Albert Manhattan - New ruin tiles_26
+    21300054: Albert Manhattan - New ruin tiles_27
+    21300056: Albert Manhattan - New ruin tiles_28
+    21300058: Albert Manhattan - New ruin tiles_29
+    21300060: Albert Manhattan - New ruin tiles_30
+    21300062: Albert Manhattan - New ruin tiles_31
+    21300064: Albert Manhattan - New ruin tiles_32
+    21300066: Albert Manhattan - New ruin tiles_33
+    21300068: Albert Manhattan - New ruin tiles_34
+    21300070: Albert Manhattan - New ruin tiles_35
+    21300072: Albert Manhattan - New ruin tiles_36
+    21300074: Albert Manhattan - New ruin tiles_37
+    21300076: Albert Manhattan - New ruin tiles_38
+    21300078: Albert Manhattan - New ruin tiles_39
+    21300080: Albert Manhattan - New ruin tiles_40
+    21300082: Albert Manhattan - New ruin tiles_41
+    21300084: Albert Manhattan - New ruin tiles_42
+    21300086: Albert Manhattan - New ruin tiles_43
+    21300088: Albert Manhattan - New ruin tiles_44
+    21300090: Albert Manhattan - New ruin tiles_45
+    21300092: Albert Manhattan - New ruin tiles_46
+    21300094: Albert Manhattan - New ruin tiles_47
+    21300096: Albert Manhattan - New ruin tiles_48
+    21300098: Albert Manhattan - New ruin tiles_49
+    21300100: Albert Manhattan - New ruin tiles_50
+    21300102: Albert Manhattan - New ruin tiles_51
+    21300104: Albert Manhattan - New ruin tiles_52
+    21300106: Albert Manhattan - New ruin tiles_53
+    21300108: Albert Manhattan - New ruin tiles_54
+    21300110: Albert Manhattan - New ruin tiles_55
+    21300112: Albert Manhattan - New ruin tiles_56
+    21300114: Albert Manhattan - New ruin tiles_57
+    21300116: Albert Manhattan - New ruin tiles_58
+    21300118: Albert Manhattan - New ruin tiles_59
+    21300120: Albert Manhattan - New ruin tiles_60
+    21300122: Albert Manhattan - New ruin tiles_61
+    21300124: Albert Manhattan - New ruin tiles_62
+    21300126: Albert Manhattan - New ruin tiles_63
+    21300128: Albert Manhattan - New ruin tiles_64
+    21300130: Albert Manhattan - New ruin tiles_65
+    21300132: Albert Manhattan - New ruin tiles_66
+    21300134: Albert Manhattan - New ruin tiles_67
+    21300136: Albert Manhattan - New ruin tiles_68
+    21300138: Albert Manhattan - New ruin tiles_69
+    21300140: Albert Manhattan - New ruin tiles_70
+    21300142: Albert Manhattan - New ruin tiles_71
+    21300144: Albert Manhattan - New ruin tiles_72
+    21300146: Albert Manhattan - New ruin tiles_73
+    21300148: Albert Manhattan - New ruin tiles_74
+    21300150: Albert Manhattan - New ruin tiles_75
+    21300152: Albert Manhattan - New ruin tiles_76
+    21300154: Albert Manhattan - New ruin tiles_77
+    21300156: Albert Manhattan - New ruin tiles_78
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: Albert Manhattan - New ruin tiles_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1027
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.53052, y: 22.489197}
+        - {x: -41.53052, y: -20.510803}
+        - {x: 43.46948, y: -20.510803}
+        - {x: 43.46948, y: 22.489197}
+    - name: Albert Manhattan - New ruin tiles_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1027
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.686722, y: 22.489197}
+        - {x: -20.686722, y: -20.510803}
+        - {x: 22.313278, y: -20.510803}
+        - {x: 22.313278, y: 22.489197}
+    - name: Albert Manhattan - New ruin tiles_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 963
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.126572, y: 42.050232}
+        - {x: -21.126572, y: -41.949768}
+        - {x: 21.873428, y: -41.949768}
+        - {x: 21.873428, y: 38.050232}
+        - {x: 19.873428, y: 42.050232}
+    - name: Albert Manhattan - New ruin tiles_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1027
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.76752, y: 22.489197}
+        - {x: -104.76752, y: -20.510803}
+        - {x: 106.23248, y: -20.510803}
+        - {x: 106.23248, y: 22.489197}
+    - name: Albert Manhattan - New ruin tiles_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 938
+        width: 316
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.77557, y: 43.167847}
+        - {x: -103.22443, y: 43.167847}
+        - {x: -103.22443, y: -41.832153}
+        - {x: 65.77557, y: -41.832153}
+        - {x: 96.77557, y: -0.8321533}
+        - {x: 104.77557, y: 24.167847}
+    - name: Albert Manhattan - New ruin tiles_5
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 938
+        width: 119
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.131958, y: 43.167847}
+        - {x: -39.131958, y: 4.1678467}
+        - {x: -8.131958, y: -41.832153}
+        - {x: 36.868042, y: -41.832153}
+        - {x: 39.868042, y: 15.167847}
+        - {x: 39.868042, y: 43.167847}
+    - name: Albert Manhattan - New ruin tiles_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.53052, y: 21.58435}
+        - {x: -41.53052, y: -21.41565}
+        - {x: 43.46948, y: -21.41565}
+        - {x: 43.46948, y: 21.58435}
+    - name: Albert Manhattan - New ruin tiles_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 899
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.911133, y: 42.111267}
+        - {x: -20.911133, y: -41.888733}
+        - {x: 22.088867, y: -41.888733}
+        - {x: 22.088867, y: 37.111267}
+        - {x: 19.088867, y: 42.111267}
+    - name: Albert Manhattan - New ruin tiles_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 959
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.036804, y: 21.929077}
+        - {x: -63.036804, y: -21.070923}
+        - {x: 63.963196, y: -21.070923}
+        - {x: 63.963196, y: 21.929077}
+    - name: Albert Manhattan - New ruin tiles_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 893
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.53052, y: 21.679504}
+        - {x: -41.53052, y: -21.320496}
+        - {x: 43.46948, y: -21.320496}
+        - {x: 43.46948, y: 21.679504}
+    - name: Albert Manhattan - New ruin tiles_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 894
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.37613, y: 22.334839}
+        - {x: -42.37613, y: -20.665161}
+        - {x: 42.62387, y: -20.665161}
+        - {x: 42.62387, y: 22.334839}
+    - name: Albert Manhattan - New ruin tiles_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.09787, y: 22.024231}
+        - {x: -21.09787, y: -20.975769}
+        - {x: 21.90213, y: -20.975769}
+        - {x: 21.90213, y: 22.024231}
+    - name: Albert Manhattan - New ruin tiles_12
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 765
+        width: 579
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.692139, y: 53.301605}
+        - {x: -113.69214, y: -3.6983948}
+        - {x: -189.69214, y: -47.698395}
+        - {x: -189.69214, y: -52.698395}
+        - {x: 191.30786, y: -52.698395}
+        - {x: 191.30786, y: -44.698395}
+        - {x: 18.307861, y: 53.301605}
+    - name: Albert Manhattan - New ruin tiles_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 761
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.53052, y: 43.18042}
+        - {x: -41.53052, y: -41.81958}
+        - {x: 43.46948, y: -41.81958}
+        - {x: 43.46948, y: 43.18042}
+    - name: Albert Manhattan - New ruin tiles_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 761
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.37613, y: 43.18042}
+        - {x: -42.37613, y: -41.81958}
+        - {x: 42.62387, y: -41.81958}
+        - {x: 42.62387, y: 43.18042}
+    - name: Albert Manhattan - New ruin tiles_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 761
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.221725, y: 43.18042}
+        - {x: -42.221725, y: -41.81958}
+        - {x: 42.778275, y: -41.81958}
+        - {x: 42.778275, y: 43.18042}
+    - name: Albert Manhattan - New ruin tiles_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 761
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.06732, y: 43.18042}
+        - {x: -42.06732, y: -41.81958}
+        - {x: 42.93268, y: -41.81958}
+        - {x: 42.93268, y: 43.18042}
+    - name: Albert Manhattan - New ruin tiles_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 764
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.570007, y: 43.1463}
+        - {x: -36.570007, y: -41.8537}
+        - {x: 38.429993, y: -41.8537}
+        - {x: 38.429993, y: 43.1463}
+    - name: Albert Manhattan - New ruin tiles_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 630
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.53052, y: 43.33661}
+        - {x: -41.53052, y: -41.66339}
+        - {x: 43.46948, y: -41.66339}
+        - {x: 43.46948, y: 43.33661}
+    - name: Albert Manhattan - New ruin tiles_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 630
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.37613, y: 43.33661}
+        - {x: -42.37613, y: -41.66339}
+        - {x: 42.62387, y: -41.66339}
+        - {x: 42.62387, y: 43.33661}
+    - name: Albert Manhattan - New ruin tiles_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 630
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.221725, y: 43.33661}
+        - {x: -42.221725, y: -41.66339}
+        - {x: 42.778275, y: -41.66339}
+        - {x: 42.778275, y: 43.33661}
+    - name: Albert Manhattan - New ruin tiles_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 630
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.06732, y: 43.33661}
+        - {x: -42.06732, y: -41.66339}
+        - {x: 42.93268, y: -41.66339}
+        - {x: 42.93268, y: 43.33661}
+    - name: Albert Manhattan - New ruin tiles_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 630
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.91293, y: 43.33661}
+        - {x: -83.91293, y: -41.66339}
+        - {x: 85.08707, y: -41.66339}
+        - {x: 85.08707, y: 43.33661}
+    - name: Albert Manhattan - New ruin tiles_23
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 630
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.570007, y: 43.33661}
+        - {x: -36.570007, y: -41.66339}
+        - {x: 38.429993, y: -41.66339}
+        - {x: 38.429993, y: 43.33661}
+    - name: Albert Manhattan - New ruin tiles_24
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 684
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 28.5}
+        - {x: -21, y: 16.5}
+        - {x: -21, y: -28.5}
+        - {x: 21, y: -28.5}
+        - {x: 21, y: 17.5}
+        - {x: 10, y: 28.5}
+    - name: Albert Manhattan - New ruin tiles_25
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 685
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -10, y: 21}
+        - {x: -10, y: 18}
+        - {x: -19, y: 4}
+        - {x: -19, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 9}
+        - {x: 9, y: 32}
+    - name: Albert Manhattan - New ruin tiles_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.53052, y: 43.18222}
+        - {x: -41.53052, y: -41.81778}
+        - {x: 43.46948, y: -41.81778}
+        - {x: 43.46948, y: 43.18222}
+    - name: Albert Manhattan - New ruin tiles_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.37613, y: 43.18222}
+        - {x: -42.37613, y: -41.81778}
+        - {x: 42.62387, y: -41.81778}
+        - {x: 42.62387, y: 43.18222}
+    - name: Albert Manhattan - New ruin tiles_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.221725, y: 43.18222}
+        - {x: -42.221725, y: -41.81778}
+        - {x: 42.778275, y: -41.81778}
+        - {x: 42.778275, y: 43.18222}
+    - name: Albert Manhattan - New ruin tiles_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.06732, y: 43.18222}
+        - {x: -42.06732, y: -41.81778}
+        - {x: 42.93268, y: -41.81778}
+        - {x: 42.93268, y: 43.18222}
+    - name: Albert Manhattan - New ruin tiles_30
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.912933, y: 43.18222}
+        - {x: -41.912933, y: -41.81778}
+        - {x: 43.087067, y: -41.81778}
+        - {x: 43.087067, y: 43.18222}
+    - name: Albert Manhattan - New ruin tiles_31
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 611
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 24}
+        - {x: -32, y: 23}
+        - {x: -32, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: 23}
+        - {x: 31, y: 24}
+    - name: Albert Manhattan - New ruin tiles_32
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 611
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.923706, y: 21.885986}
+        - {x: -20.923706, y: -21.114014}
+        - {x: 22.076294, y: -21.114014}
+        - {x: 22.076294, y: 21.885986}
+    - name: Albert Manhattan - New ruin tiles_33
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 611
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.052979, y: 21.885986}
+        - {x: -21.052979, y: -21.114014}
+        - {x: 21.947021, y: -21.114014}
+        - {x: 21.947021, y: 21.885986}
+    - name: Albert Manhattan - New ruin tiles_34
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 428
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.614929, y: 42.966766}
+        - {x: -16.61493, y: 38.966766}
+        - {x: -16.61493, y: -42.033234}
+        - {x: 18.38507, y: -42.033234}
+        - {x: 18.38507, y: 42.966766}
+    - name: Albert Manhattan - New ruin tiles_35
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 429
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.641846, y: 32.12207}
+        - {x: -16.641846, y: -27.87793}
+        - {x: -11.641846, y: -31.87793}
+        - {x: 14.358154, y: -31.87793}
+        - {x: 18.358154, y: -27.87793}
+        - {x: 18.358154, y: 27.12207}
+        - {x: 17.358154, y: 32.12207}
+    - name: Albert Manhattan - New ruin tiles_36
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 498
+        width: 128
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.850098, y: 18.337524}
+        - {x: 36.850098, y: 14.337524}
+        - {x: 34.850098, y: 28.337524}
+        - {x: 33.850098, y: 32.337524}
+        - {x: -39.149902, y: 32.337524}
+        - {x: -42.149902, y: 27.337524}
+        - {x: -42.149902, y: -31.662476}
+        - {x: 42.850098, y: -31.662476}
+    - name: Albert Manhattan - New ruin tiles_37
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 498
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.650818, y: 32.337524}
+        - {x: -41.650818, y: 24.337524}
+        - {x: -41.650818, y: -31.662476}
+        - {x: 43.349182, y: -31.662476}
+        - {x: 43.349182, y: 25.337524}
+        - {x: 39.349182, y: 32.337524}
+    - name: Albert Manhattan - New ruin tiles_38
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 498
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.99646, y: 32.337524}
+        - {x: -41.99646, y: 20.337524}
+        - {x: -41.99646, y: -31.662476}
+        - {x: 42.00354, y: -31.662476}
+        - {x: 42.00354, y: 19.337524}
+        - {x: 37.00354, y: 32.337524}
+    - name: Albert Manhattan - New ruin tiles_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 428
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.53052, y: 21.966766}
+        - {x: -41.53052, y: -21.033234}
+        - {x: 43.46948, y: -21.033234}
+        - {x: 43.46948, y: 21.966766}
+    - name: Albert Manhattan - New ruin tiles_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 428
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.37613, y: 21.966766}
+        - {x: -42.37613, y: -21.033234}
+        - {x: 42.62387, y: -21.033234}
+        - {x: 42.62387, y: 21.966766}
+    - name: Albert Manhattan - New ruin tiles_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 428
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.221725, y: 21.966766}
+        - {x: -42.221725, y: -21.033234}
+        - {x: 42.778275, y: -21.033234}
+        - {x: 42.778275, y: 21.966766}
+    - name: Albert Manhattan - New ruin tiles_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 428
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.06732, y: 21.966766}
+        - {x: -42.06732, y: -21.033234}
+        - {x: 42.93268, y: -21.033234}
+        - {x: 42.93268, y: 21.966766}
+    - name: Albert Manhattan - New ruin tiles_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 428
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.912933, y: 21.966766}
+        - {x: -41.912933, y: -21.033234}
+        - {x: 43.087067, y: -21.033234}
+        - {x: 43.087067, y: 21.966766}
+    - name: Albert Manhattan - New ruin tiles_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.530521, y: 22.096039}
+        - {x: -20.530521, y: -20.903961}
+        - {x: 22.469479, y: -20.903961}
+        - {x: 22.469479, y: 22.096039}
+    - name: Albert Manhattan - New ruin tiles_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.970383, y: 22.096039}
+        - {x: -20.970383, y: -20.903961}
+        - {x: 22.029617, y: -20.903961}
+        - {x: 22.029617, y: 22.096039}
+    - name: Albert Manhattan - New ruin tiles_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.41024, y: 22.096039}
+        - {x: -21.41024, y: -20.903961}
+        - {x: 21.58976, y: -20.903961}
+        - {x: 21.58976, y: 22.096039}
+    - name: Albert Manhattan - New ruin tiles_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.850098, y: 22.096039}
+        - {x: -20.850098, y: -20.903961}
+        - {x: 22.149902, y: -20.903961}
+        - {x: 22.149902, y: 22.096039}
+    - name: Albert Manhattan - New ruin tiles_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.289948, y: 22.096039}
+        - {x: -21.289948, y: -20.903961}
+        - {x: 21.710052, y: -20.903961}
+        - {x: 21.710052, y: 22.096039}
+    - name: Albert Manhattan - New ruin tiles_49
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.729813, y: 22.096039}
+        - {x: -20.729813, y: -20.903961}
+        - {x: 22.270187, y: -20.903961}
+        - {x: 22.270187, y: 22.096039}
+    - name: Albert Manhattan - New ruin tiles_50
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 362
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Albert Manhattan - New ruin tiles_51
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 293
+        width: 259
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.8645, y: 28.501785}
+        - {x: -84.8645, y: -4.4982147}
+        - {x: -84.8645, y: -27.498215}
+        - {x: -83.8645, y: -28.498215}
+        - {x: 86.1355, y: -28.498215}
+        - {x: 86.1355, y: 2.5017853}
+        - {x: 22.135498, y: 28.501785}
+    - name: Albert Manhattan - New ruin tiles_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: Albert Manhattan - New ruin tiles_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: Albert Manhattan - New ruin tiles_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: Albert Manhattan - New ruin tiles_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: Albert Manhattan - New ruin tiles_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: Albert Manhattan - New ruin tiles_57
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: Albert Manhattan - New ruin tiles_58
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 330
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Albert Manhattan - New ruin tiles_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 262
+        width: 325
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.509888, y: 28.687607}
+        - {x: -76.50989, y: 28.687607}
+        - {x: -106.50989, y: 11.687607}
+        - {x: -106.50989, y: -27.312393}
+        - {x: 70.49011, y: -27.312393}
+        - {x: 107.49011, y: -18.312393}
+        - {x: 107.49011, y: -9.312393}
+        - {x: 105.49011, y: -5.312393}
+    - name: Albert Manhattan - New ruin tiles_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Albert Manhattan - New ruin tiles_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Albert Manhattan - New ruin tiles_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Albert Manhattan - New ruin tiles_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Albert Manhattan - New ruin tiles_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Albert Manhattan - New ruin tiles_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Albert Manhattan - New ruin tiles_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.530521, y: 84.8824}
+        - {x: -20.530521, y: -84.1176}
+        - {x: 22.469479, y: -84.1176}
+        - {x: 22.469479, y: 84.8824}
+    - name: Albert Manhattan - New ruin tiles_67
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.004494, y: 84.8824}
+        - {x: -21.004494, y: -84.1176}
+        - {x: 21.995506, y: -84.1176}
+        - {x: 21.995506, y: 84.8824}
+    - name: Albert Manhattan - New ruin tiles_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 25
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.978462, y: 84.8824}
+        - {x: -20.978462, y: -84.1176}
+        - {x: 21.021538, y: -84.1176}
+        - {x: 21.021538, y: 84.8824}
+    - name: Albert Manhattan - New ruin tiles_69
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.952423, y: 43.882404}
+        - {x: -16.952423, y: 35.882404}
+        - {x: -20.952423, y: -13.117596}
+        - {x: -20.952423, y: -43.117596}
+        - {x: 22.047577, y: -43.117596}
+        - {x: 22.047577, y: 28.882404}
+        - {x: 21.047577, y: 43.882404}
+    - name: Albert Manhattan - New ruin tiles_70
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 25
+        width: 75
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.235199, y: 84.8824}
+        - {x: -24.235199, y: -84.1176}
+        - {x: 25.764801, y: -84.1176}
+        - {x: 25.764801, y: 84.8824}
+    - name: Albert Manhattan - New ruin tiles_71
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 25
+        width: 65
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.1221, y: 84.8824}
+        - {x: -21.1221, y: -84.1176}
+        - {x: 22.8779, y: -84.1176}
+        - {x: 22.8779, y: 84.8824}
+    - name: Albert Manhattan - New ruin tiles_72
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 25
+        width: 74
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.440765, y: 85.8824}
+        - {x: -24.440765, y: -74.1176}
+        - {x: -23.440765, y: -85.1176}
+        - {x: 24.559235, y: -85.1176}
+        - {x: 24.559235, y: 85.8824}
+    - name: Albert Manhattan - New ruin tiles_73
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 131
+        width: 321
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.320496, y: 32.843803}
+        - {x: -86.320496, y: 13.843803}
+        - {x: -105.320496, y: -5.1561966}
+        - {x: -105.320496, y: -27.156197}
+        - {x: -103.320496, y: -31.156197}
+        - {x: 93.679504, y: -31.156197}
+        - {x: 105.679504, y: -21.156197}
+        - {x: 105.679504, y: -3.1561966}
+        - {x: 24.679504, y: 32.843803}
+    - name: Albert Manhattan - New ruin tiles_74
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 86
+        width: 261
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.84375, y: 52.355473}
+        - {x: -54.15625, y: 52.355473}
+        - {x: -85.15625, y: 29.355473}
+        - {x: -85.15625, y: -38.644527}
+        - {x: -75.15625, y: -51.644527}
+        - {x: 68.84375, y: -51.644527}
+        - {x: 86.84375, y: -36.644527}
+        - {x: 86.84375, y: 22.355473}
+        - {x: 76.84375, y: 36.355473}
+    - name: Albert Manhattan - New ruin tiles_75
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 25
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.426392, y: 21.882404}
+        - {x: -21.426392, y: 20.882404}
+        - {x: -21.426392, y: -21.117596}
+        - {x: 21.573608, y: -21.117596}
+        - {x: 21.573608, y: 21.882404}
+    - name: Albert Manhattan - New ruin tiles_76
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 25
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 24}
+        - {x: -55, y: 16}
+        - {x: -55, y: -24}
+        - {x: 49, y: -24}
+        - {x: 55, y: -12}
+        - {x: 55, y: 19}
+        - {x: 47, y: 24}
+    - name: Albert Manhattan - New ruin tiles_77
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 25
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Albert Manhattan - New ruin tiles_78
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 25
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

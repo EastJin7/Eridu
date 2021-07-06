@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 1e5546644ea174d60b9f2356561fb09b
+labels:
+- Unitychan
+- 2d
+timeCreated: 1478717030
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unitychan_Soard_Combo_22_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.1735}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 0
+    allowsAlphaSplitting: 1
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: Unitychan_Soard_Combo_22_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 93
+        height: 44
+      alignment: 9
+      pivot: {x: 0.18732616, y: 0.036378775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4213333, y: 42.399334}
+        - {x: -13.421333, y: 37.399334}
+        - {x: -17.421333, y: 32.399334}
+        - {x: -17.421333, y: -1.600666}
+        - {x: 75.57867, y: -1.600666}
+        - {x: 75.57867, y: 14.399334}
+        - {x: 71.57867, y: 28.399334}
+        - {x: 40.578667, y: 42.399334}
+    outline: []
+  spritePackingTag: Unitychan_BattleActions
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 38680e27bb70f6845afead88260b0bce
+timeCreated: 1478848013
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "UI\u5C0D\u8A71\u68462-1_0"
+    21300002: "UI\u5C0D\u8A71\u68462-1_1"
+    21300004: "UI\u5C0D\u8A71\u68462-1_2"
+    21300006: "UI\u5C0D\u8A71\u68462-1_3"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 0
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: "UI\u5C0D\u8A71\u68462-1_0"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "UI\u5C0D\u8A71\u68462-1_1"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 35
+        width: 131
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 40.5}
+        - {x: -65.5, y: -40.5}
+        - {x: 65.5, y: -40.5}
+        - {x: 65.5, y: -30.5}
+        - {x: -51.5, y: 40.5}
+    - name: "UI\u5C0D\u8A71\u68462-1_2"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 35
+        width: 94
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "UI\u5C0D\u8A71\u68462-1_3"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 35
+        width: 135
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 40.5}
+        - {x: -67.5, y: -30.5}
+        - {x: -67.5, y: -40.5}
+        - {x: 67.5, y: -40.5}
+        - {x: 67.5, y: 40.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: c13ffa2089eb2b640ab838ee41b27399
+timeCreated: 1479907262
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slash_ice2_0
+    21300002: slash_ice2_1
+    21300004: slash_ice2_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 0
+    allowsAlphaSplitting: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 0
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: slash_ice2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 27}
+        - {x: -27, y: 22}
+        - {x: -27, y: 6}
+        - {x: 31, y: 6}
+        - {x: 40, y: 7}
+        - {x: 41, y: 12}
+        - {x: 41, y: 27}
+    - name: slash_ice2_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 28}
+        - {x: 23, y: 18}
+        - {x: -22, y: 42}
+        - {x: -27, y: 40}
+        - {x: -38, y: 29}
+        - {x: -38, y: 15}
+        - {x: -34, y: 6}
+        - {x: 18, y: 6}
+        - {x: 36, y: 11}
+        - {x: 41, y: 21}
+        - {x: 41, y: 27}
+    - name: slash_ice2_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 65}
+        - {x: 18, y: 73}
+        - {x: -41, y: 73}
+        - {x: -41, y: 7}
+        - {x: -31, y: 6}
+        - {x: 23, y: 6}
+        - {x: 36, y: 11}
+        - {x: 41, y: 21}
+        - {x: 41, y: 39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
